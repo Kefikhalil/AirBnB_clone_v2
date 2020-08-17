@@ -1,4 +1,4 @@
-<center> <h1>HBNB - The Console</h1> </center>
+<center> <h1>HBNBb - The Console</h1> </center>
 
 This repository contains the initial stage of student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
@@ -29,7 +29,7 @@ This repository contains the initial stage of student project to build a clone o
 ```
 /AirBnB_clone$ ./console.py
 ```
-4. When this command is run the following prompt should appear:
+4. When this command is to run the following prompt should appear:
 ```
 (hbnb)
 ```
